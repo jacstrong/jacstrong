@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacstrong)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jacstrong/jacstrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A few things I've done:
+
+- https://web.archive.org/web/20210401145109if_/https://badgerprints.com/
+- https://harpercookbook.com/
+- https://thesoltools.com
