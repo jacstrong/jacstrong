@@ -20,4 +20,3 @@ A few things I've done:
 
 - https://web.archive.org/web/20210401145109if_/https://badgerprints.com/
 - https://harpercookbook.com/
-- https://thesoltools.com
