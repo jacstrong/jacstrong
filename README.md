@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm currently working on a contacts utility app for iOS/Android.
+
 A few things I've done:
 
+- https://apps.apple.com/us/app/id1667112587
 - https://web.archive.org/web/20210401145109if_/https://badgerprints.com/
 - https://harpercookbook.com/
